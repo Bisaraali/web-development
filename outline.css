@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Tutorial</title>
+<style class ="style/css">
+    .d1{
+        width: 40%;
+        height: 300px;
+        /* border: 2px solid black; */
+        margin: auto;
+        margin-top: 10px;
+
+    }
+    img{
+        width: 80%;
+        height: 300px;
+    }
+    .d2,.d3, .d4{
+        width: 30%;
+        height: 300px;
+        background-color: rgb(73, 211, 230);
+        display: inline-block;
+        margin: auto;
+        margin-left: 30px;
+        margin-top: 20px;
+       
+    }
+    .d3{
+        background-color: rgb(239, 241, 106);
+    }
+</style>
+</head>
+<body>
+	<marquee behavior="" direction="right">THIS IS COURSE THAT INSTRACT IN TUNGUU CUMPAS</marquee>
+    <div class ="d2">
+    <ol>
+        <li>Micro computer</li>
+        <li>communication skill</li>
+        <li>Mathematics</li>
+        <li>Web development</li>
+        <li>Network Security</li>
+        <li>Programming</li>
+    </ol>
+
+    </div>
+    <div class ="d3">
+    <ul>
+        <li>Micro computer</li>
+        <li>Communcation skill</li>
+        <li>Mathematics</li>
+        <li>Web development</li>
+        <li>Network Security</li>
+        <li>Programming</li>
+    </ul>
+
+    </div>
+    <div class ="d4">
+        <dl>
+            <dt>Web development</dt>
+            <dd>- Deal with software development </dd>
+            <dt>Accounting</dt>
+            <dd>- Deal with transaction of bank</dd>
+            <dt>Accounting</dt>
+            <dd>- Deal with transaction of bank</dd>
+           
+
+          </dl>
+
+    </div>
+    
+    
+</body>
+</html>
